@@ -9,7 +9,7 @@ This is a **Movie Recommendation System** built using **Python, Streamlit, and S
 - Fetches **movie posters** using The Movie Database (TMDb) API.
 
 ## 📂 Dataset
-The dataset used for this project was sourced from **Kaggle**. It contains metadata about movies, including titles, genres, and descriptions.
+The dataset used for this movie recommendation project was sourced from **Kaggle** and contains comprehensive metadata about movies. It includes attributes such as **title, genres, overview (description), release date, cast, crew, and ratings**. The dataset provides crucial information for building an effective recommendation system by analyzing movie content, user preferences, and trends. With details about the **actors, directors, and other crew members**, it enables filtering and suggesting movies based on collaborative and content-based approaches. The **ratings and reviews** further help in ranking and recommending movies that align with user interests.
 
 ## 🛠️ Installation & Setup
 
